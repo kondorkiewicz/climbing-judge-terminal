@@ -1,0 +1,18 @@
+4.1.7 Rezultaty rundy eliminacyjnej oblicza się w następujący sposób:
+SP = √r1xr2
+Gdzie:
+SP = Suma Punktów
+r1 = miejsce zajęte przez zawodnika na pierwszej drodze
+r2 = miejsce zajęte przez zawodnika na drugiej drodze
+Im mniejsza jest liczba punktów, tym lepszy jest wynik uzyskany przez
+zawodnika. Dodatkowo, dla ustalania wyników każdej z rund powinna być
+stosowana korekta punktów za miejsca ex aequo: każdemu ze sklasyfikowanych
+ex aequo zawodników powinna być przyznawana średnia liczba punktów,
+stanowiąca wynik dzielenia liczby punktów przez liczbę pozycji (np. 
+Przepisy wspinaczki sportowej 2017
+25
+w przypadku 6 zawodników sklasyfikowanych w danej rundzie ex aequo na
+pierwszym miejscu – 3,5 pkt [1+2+3+4+5+6=21; 21/6=3,5] albo 4 miejsc ex
+aequo na drugim miejscu – 3,5 pkt [2+3+4+5=14; 14/4=3,5 ]). Wszystkie cyfry
+po przecinku są brane pod uwagę, ale tylko pierwsze dwie będą zapisane
+w oficjalnych wynikach zawodów.
